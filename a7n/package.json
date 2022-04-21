@@ -8,6 +8,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+    ,"build": "elm-app build"
+    ,"publish": "npm build && gh-pages -d build"
   },
   "keywords": [],
   "author": "",
