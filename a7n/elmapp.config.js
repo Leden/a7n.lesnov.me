@@ -1,3 +1,3 @@
 module.exports = {
-    homepage: "https://leden.github.io/a7n.lesnov.me"
+    homepage: "http://a7n.lesnov.me"
 }
