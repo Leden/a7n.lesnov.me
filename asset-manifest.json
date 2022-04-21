@@ -1,0 +1,15 @@
+{
+  "main.css": "/a7n/static/css/main.db17225b.chunk.css",
+  "main.js": "/a7n/static/js/main.2d10fff2.chunk.js",
+  "main.js.map": "/a7n/static/js/main.2d10fff2.chunk.js.map",
+  "runtime~main.js": "/a7n/static/js/runtime~main.3e2a5d52.js",
+  "runtime~main.js.map": "/a7n/static/js/runtime~main.3e2a5d52.js.map",
+  "vendors~main.js": "/a7n/static/js/vendors~main.85be547f.chunk.js",
+  "vendors~main.js.map": "/a7n/static/js/vendors~main.85be547f.chunk.js.map",
+  "./service-worker.js": "/a7n/./service-worker.js",
+  "favicon.ico": "/a7n/favicon.ico",
+  "index.html": "/a7n/index.html",
+  "logo.svg": "/a7n/logo.svg",
+  "manifest.json": "/a7n/manifest.json",
+  "precache-manifest.36d304fef3571f885f661922cb9a34c1.js": "/a7n/precache-manifest.36d304fef3571f885f661922cb9a34c1.js"
+}
